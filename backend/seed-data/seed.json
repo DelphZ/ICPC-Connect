@@ -1,0 +1,1622 @@
+{
+  "contests": [
+    {
+      "id": "40cfb102-6226-46f5-8e1b-a6b5d082989f",
+      "name": "Epic Contest",
+      "site": 1
+    },
+    {
+      "id": "d62a328a-f1b4-4de1-a44f-15fc0301463a",
+      "name": "ICPC Regionals",
+      "site": 1
+    },
+    {
+      "id": "5931d4e5-483f-4887-a0ee-2ef7377fa8db",
+      "name": "ICPC Preliminary Contest",
+      "site": 1
+    }
+  ],
+  "students": [
+    {
+      "id": "b6fd8dfb-5e30-49c9-97ec-7a9e349fabc1",
+      "givenName": "Adrian",
+      "familyName": "Balbalosa",
+      "password": "test1",
+      "email": "student_1@ad.com",
+      "role": "Student",
+      "university": 1,
+      "studentId": "z5397730",
+      "pronouns": "he/him",
+      "profile_pic": "",
+      "languagesSpoken": ["en"],
+      "team": null,
+      "photoConsent": true,
+      "level": "B",
+      "contestExperience": 1,
+      "leetcodeRating": 0,
+      "codeforcesRating": 0,
+      "cppExperience": "some",
+      "cExperience": "some",
+      "javaExperience": "prof",
+      "pythonExperience": "prof",
+      "coursesTaken": [1, 2, 3],
+      "preferences": "z5418213, z5421467"
+    },
+    {
+      "id": "c47253b3-5181-4680-81e0-01fc7b3c6c09",
+      "givenName": "Yian",
+      "familyName": "Li",
+      "password": "test2",
+      "email": "student_2@ad.com",
+      "role": "Student",
+      "profile_pic": "",
+      "university": 1,
+      "studentId": "z5418213",
+      "pronouns": "she/her",
+      "photoConsent": true,
+      "languagesSpoken": ["en"],
+      "team": null,
+      "level": "B",
+      "contestExperience": 1,
+      "leetcodeRating": 0,
+      "codeforcesRating": 0,
+      "cppExperience": "prof",
+      "cExperience": "prof",
+      "javaExperience": "prof",
+      "pythonExperience": "prof",
+      "coursesTaken": [1, 2, 3, 4],
+      "preferences": ""
+    },
+    {
+      "id": "d6d7f907-8ff9-4de5-8f3b-c60e0fc73b36",
+      "givenName": "Kobe",
+      "familyName": "Shen",
+      "password": "test3",
+      "email": "student_3@ad.com",
+      "role": "Student",
+      "university": 1,
+      "studentId": "z5421467",
+      "pronouns": "he/him",
+      "photoConsent": true,
+      "profile_pic": "",
+      "languagesSpoken": ["en"],
+      "team": null,
+      "level": "B",
+      "contestExperience": 1,
+      "leetcodeRating": 0,
+      "codeforcesRating": 0,
+      "cppExperience": "prof",
+      "cExperience": "prof",
+      "javaExperience": "prof",
+      "pythonExperience": "prof",
+      "coursesTaken": [1, 2, 3],
+      "preferences": ""
+    },
+    {
+      "id": "06746f7d-994d-4e93-b8cf-16f5d9f3739e",
+      "givenName": "Zac",
+      "familyName": "Ecob",
+      "password": "test4",
+      "email": "student_4@ad.com",
+      "role": "Student",
+      "university": 1,
+      "studentId": "z5419703",
+      "pronouns": "he/him",
+      "photoConsent": true,
+      "profile_pic": "",
+      "languagesSpoken": ["en"],
+      "team": null,
+      "level": "B",
+      "contestExperience": 1,
+      "leetcodeRating": 0,
+      "codeforcesRating": 0,
+      "cppExperience": "prof",
+      "cExperience": "prof",
+      "javaExperience": "prof",
+      "pythonExperience": "prof",
+      "coursesTaken": [1, 2, 3],
+      "preferences": ""
+    },
+    {
+      "id": "2f3579df-7b29-47b5-96cb-8e0f79853fd7",
+      "givenName": "Delph",
+      "familyName": "Zhou",
+      "password": "test6",
+      "email": "student_6@ad.com",
+      "role": "Student",
+      "university": 1,
+      "studentId": "z5354052",
+      "pronouns": "he/him",
+      "photoConsent": true,
+      "profile_pic": "",
+      "languagesSpoken": ["en"],
+      "team": null,
+      "level": "B",
+      "contestExperience": 1,
+      "leetcodeRating": 0,
+      "codeforcesRating": 0,
+      "cppExperience": "prof",
+      "cExperience": "prof",
+      "javaExperience": "prof",
+      "pythonExperience": "prof",
+      "coursesTaken": [1, 2, 3, 4],
+      "preferences": ""
+    },
+    {
+      "id": "5ab06b75-8724-4ae5-b0a6-5a6bba0e2d7f",
+      "givenName": "Makka",
+      "familyName": "Pakka",
+      "password": "test7",
+      "email": "student_7@ad.com",
+      "role": "Student",
+      "university": 1,
+      "studentId": "z1342356",
+      "pronouns": "he/him",
+      "photoConsent": true,
+      "profile_pic": "",
+      "languagesSpoken": ["en"],
+      "team": null,
+      "level": "B",
+      "contestExperience": 5,
+      "leetcodeRating": 0,
+      "codeforcesRating": 0,
+      "cppExperience": "prof",
+      "cExperience": "prof",
+      "javaExperience": "none",
+      "pythonExperience": "none",
+      "coursesTaken": [1, 2],
+      "preferences": ""
+    },
+    {
+      "id": "2d5a4ff6-b708-4204-a8e5-c5f54f83651c",
+      "givenName": "Jappy",
+      "familyName": "Jonathan",
+      "password": "test7",
+      "email": "student_8@ad.com",
+      "role": "Student",
+      "university": 2,
+      "studentId": "z1334567",
+      "pronouns": "he/him",
+      "photoConsent": true,
+      "profile_pic": "",
+      "languagesSpoken": ["en"],
+      "team": null,
+      "level": "B",
+      "contestExperience": 5,
+      "leetcodeRating": 1000,
+      "codeforcesRating": 1000,
+      "cppExperience": "prof",
+      "cExperience": "prof",
+      "javaExperience": "prof",
+      "pythonExperience": "prof",
+      "coursesTaken": [1, 2, 3, 4],
+      "preferences": ""
+    },
+    {
+      "id": "e5093f3a-07ef-4218-bf3e-9bfc8c60ed94",
+      "givenName": "Noko",
+      "familyName": "Shikanoko",
+      "password": "test7",
+      "email": "student_9@ad.com",
+      "role": "Student",
+      "university": 2,
+      "studentId": "z2324535",
+      "pronouns": "he/him",
+      "photoConsent": true,
+      "profile_pic": "",
+      "languagesSpoken": ["en"],
+      "team": null,
+      "level": "B",
+      "contestExperience": 5,
+      "leetcodeRating": 1000,
+      "codeforcesRating": 1000,
+      "cppExperience": "prof",
+      "cExperience": "prof",
+      "javaExperience": "prof",
+      "pythonExperience": "prof",
+      "coursesTaken": [1, 2, 3, 4],
+      "preferences": ""
+    },
+    {
+      "id": "c14933de-4025-4391-a1bc-62eb8d76b716",
+      "givenName": "Lo-fi",
+      "familyName": "Chan",
+      "password": "test7",
+      "email": "student_10@ad.com",
+      "role": "Student",
+      "university": 2,
+      "studentId": "z8534085",
+      "pronouns": "he/him",
+      "photoConsent": true,
+      "profile_pic": "",
+      "languagesSpoken": ["en"],
+      "team": null,
+      "level": "B",
+      "contestExperience": 5,
+      "leetcodeRating": 1000,
+      "codeforcesRating": 1000,
+      "cppExperience": "prof",
+      "cExperience": "prof",
+      "javaExperience": "prof",
+      "pythonExperience": "prof",
+      "coursesTaken": [1, 2, 3, 4],
+      "preferences": ""
+    },
+    {
+      "id": "2ad0e0b7-04a1-4d29-91d1-5024d394aaf1",
+      "givenName": "Epic",
+      "familyName": "Gamer",
+      "password": "test7",
+      "email": "student_11@ad.com",
+      "role": "Student",
+      "university": 2,
+      "studentId": "z2382031",
+      "pronouns": "he/him",
+      "photoConsent": true,
+      "profile_pic": "",
+      "languagesSpoken": ["ja"],
+      "team": null,
+      "level": "B",
+      "contestExperience": 5,
+      "leetcodeRating": 0,
+      "codeforcesRating": 0,
+      "cppExperience": "prof",
+      "cExperience": "prof",
+      "javaExperience": "none",
+      "pythonExperience": "none",
+      "coursesTaken": [1, 2],
+      "preferences": ""
+    },
+    {
+      "id": "2c582be4-78c3-41f3-8b08-d0635d4c9313",
+      "givenName": "Immanuel",
+      "familyName": "Kant",
+      "password": "test7",
+      "email": "student_12@ad.com",
+      "role": "Student",
+      "university": 2,
+      "studentId": "z2023419",
+      "pronouns": "he/him",
+      "photoConsent": true,
+      "profile_pic": "",
+      "languagesSpoken": ["ja"],
+      "team": null,
+      "level": "B",
+      "contestExperience": 5,
+      "leetcodeRating": 0,
+      "codeforcesRating": 0,
+      "cppExperience": "prof",
+      "cExperience": "prof",
+      "javaExperience": "none",
+      "pythonExperience": "none",
+      "coursesTaken": [1, 2],
+      "preferences": ""
+    },
+    {
+      "id": "2c522be4-71c3-41f3-8b08-d0635d4c9319",
+      "givenName": "Hitori",
+      "familyName": "Goto",
+      "password": "test7",
+      "email": "student_13@ad.com",
+      "role": "Student",
+      "university": 2,
+      "studentId": "z9876543",
+      "pronouns": "he/him",
+      "photoConsent": true,
+      "languagesSpoken": ["ja"],
+      "team": null,
+      "level": "B",
+      "contestExperience": 5,
+      "leetcodeRating": 0,
+      "codeforcesRating": 0,
+      "cppExperience": "prof",
+      "cExperience": "prof",
+      "javaExperience": "none",
+      "pythonExperience": "none",
+      "coursesTaken": [1, 2],
+      "preferences": ""
+    }
+  ],
+  "coaches": [
+    {
+      "id": "b0f23f6a-99ba-4d4f-a81c-7c08c0736c1a",
+      "givenName": "Christine",
+      "familyName": "Phung",
+      "password": "test7",
+      "email": "coach1@ad.com",
+      "role": "Coach",
+      "university": 1
+    },
+    {
+      "id": "e2b912c4-fffb-4d6f-9dff-bc70e632c0f1",
+      "givenName": "Brandon",
+      "familyName": "Liu",
+      "password": "test8",
+      "email": "coach2@ad.com",
+      "role": "Coach",
+      "university": 2
+    }
+  ],
+  "siteCoordinators": [
+    {
+      "id": "351cfa52-2e67-45ea-953e-2e01fc857639",
+      "givenName": "Merry",
+      "familyName": "Rosalie",
+      "password": "test9",
+      "email": "sitecoordinator@ad.com",
+      "role": "Site Coordinator",
+      "university": 1
+    }
+  ],
+  "universities": [
+    {
+      "name": "N/A",
+      "id": 0,
+      "hostedAt": 0
+    },
+    {
+      "name": "University of New South Wales",
+      "id": 1,
+      "hostedAt": 1
+    },
+    {
+      "name": "University of Sydney",
+      "id": 2,
+      "hostedAt": 1
+    },
+    {
+      "name": "University of Technology Sydney",
+      "id": 3,
+      "hostedAt": 1
+    },
+    {
+      "name": "Macquarie University",
+      "id": 4,
+      "hostedAt": 1
+    },
+    {
+      "name": "Australian Catholic University",
+      "id": 5,
+      "hostedAt": 1
+    },
+    {
+      "name": "Australian National University",
+      "id": 6,
+      "hostedAt": 1
+    },
+    {
+      "name": "Avondale University",
+      "id": 7,
+      "hostedAt": 1
+    },
+    {
+      "name": "Bond University",
+      "id": 8,
+      "hostedAt": 1
+    },
+    {
+      "name": "Charles Darwin University",
+      "id": 9,
+      "hostedAt": 1
+    },
+    {
+      "name": "Charles Sturt University",
+      "id": 10,
+      "hostedAt": 1
+    },
+    {
+      "name": "CQ University",
+      "id": 11,
+      "hostedAt": 1
+    },
+    {
+      "name": "Curtin University",
+      "id": 12,
+      "hostedAt": 1
+    },
+    {
+      "name": "Deakin University",
+      "id": 13,
+      "hostedAt": 1
+    },
+    {
+      "name": "Edith Cowan University",
+      "id": 14,
+      "hostedAt": 1
+    },
+    {
+      "name": "Federation University of Australia",
+      "id": 15,
+      "hostedAt": 1
+    },
+    {
+      "name": "Flinders University",
+      "id": 16,
+      "hostedAt": 1
+    },
+    {
+      "name": "Griffith University",
+      "id": 17,
+      "hostedAt": 1
+    },
+    {
+      "name": "James Cook University",
+      "id": 18,
+      "hostedAt": 1
+    },
+    {
+      "name": "Latrobe University",
+      "id": 19,
+      "hostedAt": 1
+    },
+    {
+      "name": "Monash University",
+      "id": 20,
+      "hostedAt": 1
+    },
+    {
+      "name": "Murdoch University",
+      "id": 21,
+      "hostedAt": 1
+    },
+    {
+      "name": "Queensland University of Technology",
+      "id": 22,
+      "hostedAt": 1
+    },
+    {
+      "name": "RMIT University",
+      "id": 23,
+      "hostedAt": 1
+    },
+    {
+      "name": "Southern Cross University",
+      "id": 24,
+      "hostedAt": 1
+    },
+    {
+      "name": "Swinburne University of Technology",
+      "id": 25,
+      "hostedAt": 1
+    },
+    {
+      "name": "Torrens University Australia",
+      "id": 26,
+      "hostedAt": 1
+    },
+    {
+      "name": "University of Adelaide",
+      "id": 27,
+      "hostedAt": 1
+    },
+    {
+      "name": "University of Canberra",
+      "id": 28,
+      "hostedAt": 1
+    },
+    {
+      "name": "University of Divinity",
+      "id": 29,
+      "hostedAt": 1
+    },
+    {
+      "name": "University of Melbourne",
+      "id": 30,
+      "hostedAt": 1
+    },
+    {
+      "name": "University of New England",
+      "id": 31,
+      "hostedAt": 1
+    },
+    {
+      "name": "University of Newcastle",
+      "id": 32,
+      "hostedAt": 1
+    },
+    {
+      "name": "University of Notre Dame Australia",
+      "id": 33,
+      "hostedAt": 1
+    },
+    {
+      "name": "University of Queensland",
+      "id": 34,
+      "hostedAt": 1
+    },
+    {
+      "name": "University of South Australia",
+      "id": 35,
+      "hostedAt": 1
+    },
+    {
+      "name": "University of Southern Queensland",
+      "id": 36,
+      "hostedAt": 1
+    },
+    {
+      "name": "University of Tasmania",
+      "id": 37,
+      "hostedAt": 1
+    },
+    {
+      "name": "University of the Sunshine Coast",
+      "id": 38,
+      "hostedAt": 1
+    },
+    {
+      "name": "University of Western Australia",
+      "id": 39,
+      "hostedAt": 1
+    },
+    {
+      "name": "University of Wollongong",
+      "id": 40,
+      "hostedAt": 1
+    },
+    {
+      "name": "Victoria University",
+      "id": 41,
+      "hostedAt": 1
+    },
+    {
+      "name": "Western Sydney University",
+      "id": 42,
+      "hostedAt": 1
+    },
+    {
+      "name": "University of the South Pacific",
+      "id": 43,
+      "hostedAt": 43
+    },
+    {
+      "name": "University at Atenisi Institute",
+      "id": 44,
+      "hostedAt": 43
+    },
+    {
+      "name": "Hango Agricultural College",
+      "id": 45,
+      "hostedAt": 43
+    },
+    {
+      "name": "King's International University",
+      "id": 46,
+      "hostedAt": 43
+    },
+    {
+      "name": "Tonga Institute of Science and Technology",
+      "id": 47,
+      "hostedAt": 43
+    },
+    {
+      "name": "Tupou College",
+      "id": 48,
+      "hostedAt": 43
+    },
+    {
+      "name": "University of the Nations",
+      "id": 49,
+      "hostedAt": 43
+    },
+    {
+      "name": "National University of Samoa",
+      "id": 50,
+      "hostedAt": 43
+    },
+    {
+      "name": "Oceania University of Medicine",
+      "id": 51,
+      "hostedAt": 43
+    },
+    {
+      "name": "Piula Theological College",
+      "id": 52,
+      "hostedAt": 43
+    },
+    {
+      "name": "Malua Theological College",
+      "id": 53,
+      "hostedAt": 43
+    },
+    {
+      "name": "Lord Liverpool University",
+      "id": 54,
+      "hostedAt": 43
+    },
+    {
+      "name": "Royal Academy of Fine Arts (Det Jyske Kunstakademi)",
+      "id": 55,
+      "hostedAt": 43
+    },
+    {
+      "name": "St. Clements University",
+      "id": 56,
+      "hostedAt": 43
+    },
+    {
+      "name": "Ara Institute of Canterbury",
+      "id": 57,
+      "hostedAt": 43
+    },
+    {
+      "name": "Eastern Institute of Technology (EIT)",
+      "id": 58,
+      "hostedAt": 43
+    },
+    {
+      "name": "Manukau Institute of Technology (MIT)",
+      "id": 59,
+      "hostedAt": 43
+    },
+    {
+      "name": "Nelson Marlborough Institute of Technology (NMIT)",
+      "id": 60,
+      "hostedAt": 43
+    },
+    {
+      "name": "NorthTec, formerly Northland Polytechnic",
+      "id": 61,
+      "hostedAt": 43
+    },
+    {
+      "name": "Otago Polytechnic (Dunedin)",
+      "id": 62,
+      "hostedAt": 43
+    },
+    {
+      "name": "Southern Institute of Technology (SIT)",
+      "id": 63,
+      "hostedAt": 43
+    },
+    {
+      "name": "Tai Poutini Polytechnic (Greymouth)",
+      "id": 64,
+      "hostedAt": 43
+    },
+    {
+      "name": "The Open Polytechnic of New Zealand",
+      "id": 65,
+      "hostedAt": 43
+    },
+    {
+      "name": "Toi Ohomai Institute of Technology",
+      "id": 66,
+      "hostedAt": 43
+    },
+    {
+      "name": "UCOL (Universal College of Learning)",
+      "id": 67,
+      "hostedAt": 43
+    },
+    {
+      "name": "Unitec Institute of Technology",
+      "id": 68,
+      "hostedAt": 43
+    },
+    {
+      "name": "Waikato Institute of Technology (Wintec)",
+      "id": 69,
+      "hostedAt": 43
+    },
+    {
+      "name": "Wellington Institute of Technology (WelTec)",
+      "id": 70,
+      "hostedAt": 43
+    },
+    {
+      "name": "Western Institute of Technology at Taranaki",
+      "id": 71,
+      "hostedAt": 43
+    },
+    {
+      "name": "Whitireia Community Polytechnic (WCP)",
+      "id": 72,
+      "hostedAt": 43
+    },
+    {
+      "name": "University of New Caledonia, Noumea",
+      "id": 73,
+      "hostedAt": 43
+    },
+    {
+      "name": "South Pacific School of Management and Business (EGC)",
+      "id": 74,
+      "hostedAt": 43
+    },
+    {
+      "name": "Institute of Economic and Accounting Techniques (INTEC)",
+      "id": 75,
+      "hostedAt": 43
+    },
+    {
+      "name": "Technical Institute for the Sea (INTECHMER)",
+      "id": 76,
+      "hostedAt": 43
+    },
+    {
+      "name": "New Caledonia Institute of Labour Relations (IRS)",
+      "id": 77,
+      "hostedAt": 43
+    },
+    {
+      "name": "New Caledonia Graduate School of Banking (ESB)",
+      "id": 78,
+      "hostedAt": 43
+    },
+    {
+      "name": "Conservatoire National des Arts et Métiers de Polynésie Française",
+      "id": 79,
+      "hostedAt": 43
+    },
+    {
+      "name": "ECT Business School",
+      "id": 80,
+      "hostedAt": 43
+    },
+    {
+      "name": "Cours Bufflier College",
+      "id": 81,
+      "hostedAt": 43
+    },
+    {
+      "name": "University of French Polynesia",
+      "id": 82,
+      "hostedAt": 43
+    },
+    {
+      "name": "Catholic University of the West in the Pacific",
+      "id": 83,
+      "hostedAt": 43
+    },
+    {
+      "name": "Takamoa Theological College",
+      "id": 84,
+      "hostedAt": 43
+    },
+    {
+      "name": "American Samoa Community College",
+      "id": 85,
+      "hostedAt": 43
+    },
+    {
+      "name": "National University of Vanuatu",
+      "id": 86,
+      "hostedAt": 43
+    },
+    {
+      "name": "Matevulu College",
+      "id": 87,
+      "hostedAt": 43
+    },
+    {
+      "name": "Port Vila School of Nursing",
+      "id": 88,
+      "hostedAt": 43
+    },
+    {
+      "name": "Revans University",
+      "id": 89,
+      "hostedAt": 43
+    },
+    {
+      "name": "Tagabe Agricultural School",
+      "id": 90,
+      "hostedAt": 43
+    },
+    {
+      "name": "Talua Ministry Training Centre",
+      "id": 91,
+      "hostedAt": 43
+    },
+    {
+      "name": "University of the South Pacific",
+      "id": 92,
+      "hostedAt": 43
+    },
+    {
+      "name": "Vanuatu Agriculture College",
+      "id": 93,
+      "hostedAt": 43
+    },
+    {
+      "name": "Vanuatu Institute of Teacher Education",
+      "id": 94,
+      "hostedAt": 43
+    },
+    {
+      "name": "Vanuatu Institute of Technology",
+      "id": 95,
+      "hostedAt": 43
+    },
+    {
+      "name": "Vanuatu Maritime College",
+      "id": 96,
+      "hostedAt": 43
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "type": "Programming Fundamentals"
+    },
+    {
+      "id": 2,
+      "type": "Data Structures and Algorithms"
+    },
+    {
+      "id": 3,
+      "type": "Algorithm Design"
+    },
+    {
+      "id": 4,
+      "type": "Programming Challenges"
+    }
+  ],
+  "languagesSpoken": [
+    {
+      "code": "ab",
+      "name": "Abkhazian"
+    },
+    {
+      "code": "aa",
+      "name": "Afar"
+    },
+    {
+      "code": "af",
+      "name": "Afrikaans"
+    },
+    {
+      "code": "ak",
+      "name": "Akan"
+    },
+    {
+      "code": "sq",
+      "name": "Albanian"
+    },
+    {
+      "code": "am",
+      "name": "Amharic"
+    },
+    {
+      "code": "ar",
+      "name": "Arabic"
+    },
+    {
+      "code": "an",
+      "name": "Aragonese"
+    },
+    {
+      "code": "hy",
+      "name": "Armenian"
+    },
+    {
+      "code": "as",
+      "name": "Assamese"
+    },
+    {
+      "code": "av",
+      "name": "Avaric"
+    },
+    {
+      "code": "ae",
+      "name": "Avestan"
+    },
+    {
+      "code": "ay",
+      "name": "Aymara"
+    },
+    {
+      "code": "az",
+      "name": "Azerbaijani"
+    },
+    {
+      "code": "bm",
+      "name": "Bambara"
+    },
+    {
+      "code": "ba",
+      "name": "Bashkir"
+    },
+    {
+      "code": "eu",
+      "name": "Basque"
+    },
+    {
+      "code": "be",
+      "name": "Belarusian"
+    },
+    {
+      "code": "bn",
+      "name": "Bengali (Bangla)"
+    },
+    {
+      "code": "bh",
+      "name": "Bihari"
+    },
+    {
+      "code": "bi",
+      "name": "Bislama"
+    },
+    {
+      "code": "bs",
+      "name": "Bosnian"
+    },
+    {
+      "code": "br",
+      "name": "Breton"
+    },
+    {
+      "code": "bg",
+      "name": "Bulgarian"
+    },
+    {
+      "code": "my",
+      "name": "Burmese"
+    },
+    {
+      "code": "ca",
+      "name": "Catalan"
+    },
+    {
+      "code": "ch",
+      "name": "Chamorro"
+    },
+    {
+      "code": "ce",
+      "name": "Chechen"
+    },
+    {
+      "code": "ny",
+      "name": "Chichewa, Chewa, Nyanja"
+    },
+    {
+      "code": "zh",
+      "name": "Chinese"
+    },
+    {
+      "code": "zh-Hans",
+      "name": "Chinese (Simplified)"
+    },
+    {
+      "code": "zh-Hant",
+      "name": "Chinese (Traditional)"
+    },
+    {
+      "code": "cv",
+      "name": "Chuvash"
+    },
+    {
+      "code": "kw",
+      "name": "Cornish"
+    },
+    {
+      "code": "co",
+      "name": "Corsican"
+    },
+    {
+      "code": "cr",
+      "name": "Cree"
+    },
+    {
+      "code": "hr",
+      "name": "Croatian"
+    },
+    {
+      "code": "cs",
+      "name": "Czech"
+    },
+    {
+      "code": "da",
+      "name": "Danish"
+    },
+    {
+      "code": "dv",
+      "name": "Divehi, Dhivehi, Maldivian"
+    },
+    {
+      "code": "nl",
+      "name": "Dutch"
+    },
+    {
+      "code": "dz",
+      "name": "Dzongkha"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "eo",
+      "name": "Esperanto"
+    },
+    {
+      "code": "et",
+      "name": "Estonian"
+    },
+    {
+      "code": "ee",
+      "name": "Ewe"
+    },
+    {
+      "code": "fo",
+      "name": "Faroese"
+    },
+    {
+      "code": "fj",
+      "name": "Fijian"
+    },
+    {
+      "code": "fi",
+      "name": "Finnish"
+    },
+    {
+      "code": "fr",
+      "name": "French"
+    },
+    {
+      "code": "ff",
+      "name": "Fula, Fulah, Pulaar, Pular"
+    },
+    {
+      "code": "gl",
+      "name": "Galician"
+    },
+    {
+      "code": "gd",
+      "name": "Gaelic (Scottish)"
+    },
+    {
+      "code": "gv",
+      "name": "Gaelic (Manx)"
+    },
+    {
+      "code": "ka",
+      "name": "Georgian"
+    },
+    {
+      "code": "de",
+      "name": "German"
+    },
+    {
+      "code": "el",
+      "name": "Greek"
+    },
+    {
+      "code": "kl",
+      "name": "Greenlandic"
+    },
+    {
+      "code": "gn",
+      "name": "Guarani"
+    },
+    {
+      "code": "gu",
+      "name": "Gujarati"
+    },
+    {
+      "code": "ht",
+      "name": "Haitian Creole"
+    },
+    {
+      "code": "ha",
+      "name": "Hausa"
+    },
+    {
+      "code": "he",
+      "name": "Hebrew"
+    },
+    {
+      "code": "hz",
+      "name": "Herero"
+    },
+    {
+      "code": "hi",
+      "name": "Hindi"
+    },
+    {
+      "code": "ho",
+      "name": "Hiri Motu"
+    },
+    {
+      "code": "hu",
+      "name": "Hungarian"
+    },
+    {
+      "code": "is",
+      "name": "Icelandic"
+    },
+    {
+      "code": "io",
+      "name": "Ido"
+    },
+    {
+      "code": "ig",
+      "name": "Igbo"
+    },
+    {
+      "code": "id",
+      "name": "Indonesian"
+    },
+    {
+      "code": "ia",
+      "name": "Interlingua"
+    },
+    {
+      "code": "ie",
+      "name": "Interlingue"
+    },
+    {
+      "code": "iu",
+      "name": "Inuktitut"
+    },
+    {
+      "code": "ik",
+      "name": "Inupiak"
+    },
+    {
+      "code": "ga",
+      "name": "Irish"
+    },
+    {
+      "code": "it",
+      "name": "Italian"
+    },
+    {
+      "code": "ja",
+      "name": "Japanese"
+    },
+    {
+      "code": "jv",
+      "name": "Javanese"
+    },
+    {
+      "code": "kl",
+      "name": "Kalaallisut, Greenlandic"
+    },
+    {
+      "code": "kn",
+      "name": "Kannada"
+    },
+    {
+      "code": "kr",
+      "name": "Kanuri"
+    },
+    {
+      "code": "ks",
+      "name": "Kashmiri"
+    },
+    {
+      "code": "kk",
+      "name": "Kazakh"
+    },
+    {
+      "code": "km",
+      "name": "Khmer"
+    },
+    {
+      "code": "ki",
+      "name": "Kikuyu"
+    },
+    {
+      "code": "rw",
+      "name": "Kinyarwanda (Rwanda)"
+    },
+    {
+      "code": "rn",
+      "name": "Kirundi"
+    },
+    {
+      "code": "ky",
+      "name": "Kyrgyz"
+    },
+    {
+      "code": "kv",
+      "name": "Komi"
+    },
+    {
+      "code": "kg",
+      "name": "Kongo"
+    },
+    {
+      "code": "ko",
+      "name": "Korean"
+    },
+    {
+      "code": "ku",
+      "name": "Kurdish"
+    },
+    {
+      "code": "kj",
+      "name": "Kwanyama"
+    },
+    {
+      "code": "lo",
+      "name": "Lao"
+    },
+    {
+      "code": "la",
+      "name": "Latin"
+    },
+    {
+      "code": "lv",
+      "name": "Latvian (Lettish)"
+    },
+    {
+      "code": "li",
+      "name": "Limburgish ( Limburger)"
+    },
+    {
+      "code": "ln",
+      "name": "Lingala"
+    },
+    {
+      "code": "lt",
+      "name": "Lithuanian"
+    },
+    {
+      "code": "lu",
+      "name": "Luga-Katanga"
+    },
+    {
+      "code": "lg",
+      "name": "Luganda, Ganda"
+    },
+    {
+      "code": "lb",
+      "name": "Luxembourgish"
+    },
+    {
+      "code": "gv",
+      "name": "Manx"
+    },
+    {
+      "code": "mk",
+      "name": "Macedonian"
+    },
+    {
+      "code": "mg",
+      "name": "Malagasy"
+    },
+    {
+      "code": "ms",
+      "name": "Malay"
+    },
+    {
+      "code": "ml",
+      "name": "Malayalam"
+    },
+    {
+      "code": "mt",
+      "name": "Maltese"
+    },
+    {
+      "code": "mi",
+      "name": "Maori"
+    },
+    {
+      "code": "mr",
+      "name": "Marathi"
+    },
+    {
+      "code": "mh",
+      "name": "Marshallese"
+    },
+    {
+      "code": "mo",
+      "name": "Moldavian"
+    },
+    {
+      "code": "mn",
+      "name": "Mongolian"
+    },
+    {
+      "code": "na",
+      "name": "Nauru"
+    },
+    {
+      "code": "nv",
+      "name": "Navajo"
+    },
+    {
+      "code": "ng",
+      "name": "Ndonga"
+    },
+    {
+      "code": "nd",
+      "name": "Northern Ndebele"
+    },
+    {
+      "code": "ne",
+      "name": "Nepali"
+    },
+    {
+      "code": "no",
+      "name": "Norwegian"
+    },
+    {
+      "code": "nb",
+      "name": "Norwegian bokmål"
+    },
+    {
+      "code": "nn",
+      "name": "Norwegian nynorsk"
+    },
+    {
+      "code": "ii",
+      "name": "Nuosu"
+    },
+    {
+      "code": "oc",
+      "name": "Occitan"
+    },
+    {
+      "code": "oj",
+      "name": "Ojibwe"
+    },
+    {
+      "code": "cu",
+      "name": "Old Church Slavonic, Old Bulgarian"
+    },
+    {
+      "code": "or",
+      "name": "Oriya"
+    },
+    {
+      "code": "om",
+      "name": "Oromo (Afaan Oromo)"
+    },
+    {
+      "code": "os",
+      "name": "Ossetian"
+    },
+    {
+      "code": "pi",
+      "name": "Pāli"
+    },
+    {
+      "code": "ps",
+      "name": "Pashto, Pushto"
+    },
+    {
+      "code": "fa",
+      "name": "Persian (Farsi)"
+    },
+    {
+      "code": "pl",
+      "name": "Polish"
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    },
+    {
+      "code": "pa",
+      "name": "Punjabi (Eastern)"
+    },
+    {
+      "code": "qu",
+      "name": "Quechua"
+    },
+    {
+      "code": "rm",
+      "name": "Romansh"
+    },
+    {
+      "code": "ro",
+      "name": "Romanian"
+    },
+    {
+      "code": "ru",
+      "name": "Russian"
+    },
+    {
+      "code": "se",
+      "name": "Sami"
+    },
+    {
+      "code": "sm",
+      "name": "Samoan"
+    },
+    {
+      "code": "sg",
+      "name": "Sango"
+    },
+    {
+      "code": "sa",
+      "name": "Sanskrit"
+    },
+    {
+      "code": "sr",
+      "name": "Serbian"
+    },
+    {
+      "code": "sh",
+      "name": "Serbo-Croatian"
+    },
+    {
+      "code": "st",
+      "name": "Sesotho"
+    },
+    {
+      "code": "tn",
+      "name": "Setswana"
+    },
+    {
+      "code": "sn",
+      "name": "Shona"
+    },
+    {
+      "code": "ii",
+      "name": "Sichuan Yi"
+    },
+    {
+      "code": "sd",
+      "name": "Sindhi"
+    },
+    {
+      "code": "si",
+      "name": "Sinhalese"
+    },
+    {
+      "code": "ss",
+      "name": "Siswati"
+    },
+    {
+      "code": "sk",
+      "name": "Slovak"
+    },
+    {
+      "code": "sl",
+      "name": "Slovenian"
+    },
+    {
+      "code": "so",
+      "name": "Somali"
+    },
+    {
+      "code": "nr",
+      "name": "Southern Ndebele"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    },
+    {
+      "code": "su",
+      "name": "Sundanese"
+    },
+    {
+      "code": "sw",
+      "name": "Swahili (Kiswahili)"
+    },
+    {
+      "code": "ss",
+      "name": "Swati"
+    },
+    {
+      "code": "sv",
+      "name": "Swedish"
+    },
+    {
+      "code": "tl",
+      "name": "Tagalog"
+    },
+    {
+      "code": "ty",
+      "name": "Tahitian"
+    },
+    {
+      "code": "tg",
+      "name": "Tajik"
+    },
+    {
+      "code": "ta",
+      "name": "Tamil"
+    },
+    {
+      "code": "tt",
+      "name": "Tatar"
+    },
+    {
+      "code": "te",
+      "name": "Telugu"
+    },
+    {
+      "code": "th",
+      "name": "Thai"
+    },
+    {
+      "code": "bo",
+      "name": "Tibetan"
+    },
+    {
+      "code": "ti",
+      "name": "Tigrinya"
+    },
+    {
+      "code": "to",
+      "name": "Tonga"
+    },
+    {
+      "code": "ts",
+      "name": "Tsonga"
+    },
+    {
+      "code": "tr",
+      "name": "Turkish"
+    },
+    {
+      "code": "tk",
+      "name": "Turkmen"
+    },
+    {
+      "code": "tw",
+      "name": "Twi"
+    },
+    {
+      "code": "ug",
+      "name": "Uyghur"
+    },
+    {
+      "code": "uk",
+      "name": "Ukrainian"
+    },
+    {
+      "code": "ur",
+      "name": "Urdu"
+    },
+    {
+      "code": "uz",
+      "name": "Uzbek"
+    },
+    {
+      "code": "ve",
+      "name": "Venda"
+    },
+    {
+      "code": "vi",
+      "name": "Vietnamese"
+    },
+    {
+      "code": "vo",
+      "name": "Volapük"
+    },
+    {
+      "code": "wa",
+      "name": "Wallon"
+    },
+    {
+      "code": "cy",
+      "name": "Welsh"
+    },
+    {
+      "code": "wo",
+      "name": "Wolof"
+    },
+    {
+      "code": "fy",
+      "name": "Western Frisian"
+    },
+    {
+      "code": "xh",
+      "name": "Xhosa"
+    },
+    {
+      "code": "yi",
+      "name": "Yiddish"
+    },
+    {
+      "code": "yo",
+      "name": "Yoruba"
+    },
+    {
+      "code": "za",
+      "name": "Zhuang, Chuang"
+    },
+    {
+      "code": "zu",
+      "name": "Zulu"
+    }
+  ]
+}

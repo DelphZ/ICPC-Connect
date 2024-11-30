@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+.env
+node_modules/
+node_modules
+npm-debug.log
+integration-test.sh

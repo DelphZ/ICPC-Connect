@@ -1,0 +1,76 @@
+name: ci
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+jobs:
+  backend-ci:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./backend
+    services:
+      postgres:
+        image: postgres
+        env:
+          POSTGRES_PASSWORD: postgres
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+        ports:
+          - 5432:5432
+      redis:
+        image: redis
+        options: >-
+          --health-cmd "redis-cli ping"
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+        ports:
+          - 6379:6379
+    env:
+      NODE_ENV: test
+      LOG_LEVEL: info
+      TEST_DB: postgres://postgres:postgres@localhost:5432/postgres
+      PG_TEST_HOST: localhost
+      PG_TEST_USER: postgres
+      PG_TEST_PW: postgres
+      PG_TEST_DB: postgres
+      PG_TEST_PORT: 5432
+      JWT_SECRET: secret-token
+      REFRESH_TOKEN_SECRET: refresh-token-secret
+      SMTP_SERVER: smtp.ethereal.email
+      EMAIL_USER: rebeca.auer@ethereal.email # we dont have access to secrets
+      EMAIL_PASSWORD: gpYtdgMPkywbQek1Gb
+      ADMIN_EMAIL: testadmin@comp3900.com
+      ADMIN_PASSWORD: testadminpassword
+      EMAIL_PORT: 587
+      REDIS_HOST: localhost
+      REDIS_PORT: 6379
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use Node.js 20.x
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20.x
+      - run: npm ci
+      - run: npm run build
+      - run: npm run lint
+      - run: npm run test:ci
+  frontend-ci:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./frontend
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use Node.js 20.x
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20.x
+      - run: npm ci
+      - run: npm run lint
+      - run: npm run build

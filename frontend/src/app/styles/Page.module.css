@@ -1,0 +1,140 @@
+.screen {
+  margin: 100px calc(12.5vw - 90px) 0 calc(12.5vw + 90px);
+  width: 75vw;
+  flex-wrap: wrap;
+  background-color: white;
+}
+
+.divider {
+  margin: 10px 0;
+  height: 1px;
+  width: 100%;
+  border: none;
+  background-color: #a5a5a5;
+}
+
+.divider-light {
+  margin: 20px 0;
+  height: 1px;
+  width: 100%;
+  background-color: #c0c0c0;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.indented {
+  padding-left: 20px;
+}
+
+.navbar {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  position: fixed;
+  top: 0;
+  align-items: center;
+  padding: 0 3vw;
+  height: 60px;
+  width: 100vw;
+  background-color: #eff3f9;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.waiting-screen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 10px;
+  height: calc(100vh - 300px);
+}
+
+.code {
+  margin-left: 18px;
+  padding: 0 25px 0 7px;
+  height: 24px;
+  width: calc(100% - 150px);
+  font-weight: lighter;
+  color: #4b4b4b;
+  background-color: #e5eaf3;
+  border: 0.5px solid #aaaaaa;
+  border-radius: 5px;
+}
+
+.website {
+  margin: 14px 0 13.5px;
+  font-size: 28px;
+  color: #6179ac;
+}
+
+.timeline {
+  margin: 5px 0;
+}
+
+.tile {
+  position: relative;
+  border-radius: 5%;
+  padding: 35px 20px;
+  text-align: center;
+  width: 280px;
+  align-items: center;
+  border: 1px solid gray;
+  display: flex;
+  flex-direction: column;
+}
+
+.tile-title {
+  margin: 10px 0 20px;
+  color: #595d7b;
+  font-size: 21px;
+}
+
+.tile-description {
+  height: 155px;
+  color: #9a9a9a;
+  line-height: 2;
+  font-size: 16.5px;
+}
+
+.tile-button-container {
+  flex: 1;
+}
+
+.tile-button {
+  text-align: center;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  height: 35px;
+  padding: 0 35px;
+  color: white;
+  font-weight: bold;
+  background-color: #7d84af;
+}
+
+.tile-button:hover {
+  cursor: pointer;
+  opacity: 80%;
+}
+
+.added {
+  background-color: #9a9a9a;
+}
+
+.horizontal-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 50px 0;
+}
+
+.modal-heading {
+  margin: 5px 0 20px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #333333;
+}
